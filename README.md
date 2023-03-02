@@ -17,7 +17,7 @@ To support student’s decision to choose a course based on other student's revi
 
 ***
 
-## Tools/technologies and libraries used:
+## Tools, Algorithms and Libraries used:
 
 * **Database**
    * Beautifulsoup to scrape Studycheck website
@@ -40,3 +40,5 @@ To support student’s decision to choose a course based on other student's revi
    * Github
 
 ***
+
+## Visualization: (Screenshot)
