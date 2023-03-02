@@ -1,1 +1,2 @@
-# LATFinders
+# LATFinders: ARA Project
+
