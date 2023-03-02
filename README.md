@@ -10,3 +10,31 @@ To support student’s decision to choose a course based on other student's revi
 
 ***
 
+## Project Architecture:
+
+
+
+
+***
+
+## Tools/technologies and libraries used:
+
+* **Database**
+- Beautifulsoup to scrape Studycheck website
+- Render as Cloud application hosting
+- Postgres as Database
+
+* Frontend Development
+- Angular
+- Library Plotly for Data Visualization
+
+* Backend Development
+- Flask: REST API
+- Machine Learning Algorithm: SARIMA Model
+- Plotly Library for creating Data Visualization
+
+* Version Control System: Git
+
+* Code Hosting Server: Github
+
+***
