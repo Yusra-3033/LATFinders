@@ -19,16 +19,16 @@ To support student’s decision to choose a course based on other student's revi
 
 ## Tools, Algorithms and Libraries used:
 
-* **Database**
+* **Database:**
    * Beautifulsoup to scrape Studycheck website
    * Render as Cloud application hosting
    * Postgres as Database
 
-* **Frontend Development**
+* **Frontend Development:**
    * Angular
    * Library Plotly for Data Visualization
 
-* **Backend Development**
+* **Backend Development:**
    * Flask: REST API
    * Machine Learning Algorithm: SARIMA Model
    * Plotly Library for creating Data Visualization
