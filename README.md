@@ -1,7 +1,7 @@
 # LATFinders: ARA Project
 
 ## Project Idea:
----
+
 To support student’s decision to choose a course based on other student's reviews, so they can: 
 
 * Get overall and detailed view about courses.
